@@ -1,14 +1,16 @@
 
 <h1 align="center">Hey there!</h1>
 
-<h3>About Me!</h3>
+### About Me!
+
 I am a software developer and Minecraft modder!
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: `iamaprogramer` on discord
 - ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
 
-<h3>Minecraft Modding!</h3>
+### Minecraft Modding!
+
 I make mods using the Fabric Mod Loader.
 
 You can find my mods on Modrinth and Curseforge.
