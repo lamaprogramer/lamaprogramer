@@ -15,6 +15,10 @@ You can find my mods on Modrinth and Curseforge.
 
 My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
 
+<div align="center">
+  <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&color=orange" title="Java" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&color=orange" title="Python" alt="Python"/>&nbsp;
+</div>
 
 
 <h3>Tech!</h3>
