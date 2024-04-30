@@ -1,7 +1,5 @@
 
-<div id="header" align="center">
-  <h2>Hai! 👋</h2>
-</div>
+<h1 align="center">Hey there!</h1>
 
 <h3>About Me!</h3>
 I am a software developer and Minecraft modder!
