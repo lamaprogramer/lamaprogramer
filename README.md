@@ -1,11 +1,9 @@
 
 <div id="header" align="center">
-<h2>Hi there 👋</h2>
+  <h1>Hi there 👋</h1>
 </div>
 
-- I am a software developer and Minecraft modder
-- I enjoy gaming and watching anime in my free time.
-- I have experience in Java, C++, Python, and Javascript
+
 <!--
 **lamaprogramer/lamaprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
