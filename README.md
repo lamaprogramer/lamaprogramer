@@ -1,7 +1,10 @@
 
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hai! 👋</h1>
 </div>
+
+<h2>About Me!</h2>
+I am a software developer and Minecraft modder!
 
 
 <!--
