@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  ### Hi there 👋
+<h2>Hi there 👋</h2>
 </div>
 
 - I am a software developer and Minecraft modder
