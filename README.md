@@ -8,6 +8,14 @@ I am a software developer and Minecraft modder!
 - 📫 How to reach me: `iamaprogramer` on discord
 - ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
 
+<h3>Minecraft Modding!</h3>
+I make mods using the Fabric Mod Loader.
+
+You can find my mods on Modrinth and Curseforge.
+
+My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
+
+
 
 <h3>Tech!</h3>
 
