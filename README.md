@@ -15,7 +15,7 @@ You can find my mods on Modrinth and Curseforge.
 
 My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
 
-<div align="center">
+<div>
   <a href="https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames">
     <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&color=orange" title="Toggle Item Frames" alt="Toggle Item Frames"/>&nbsp;
   </a>
