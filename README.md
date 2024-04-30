@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
-  <h1>Hai! 👋</h1>
+  <h2>Hai! 👋</h2>
 </div>
 
-<h2>About Me!</h2>
+<h3>About Me!</h3>
 I am a software developer and Minecraft modder!
 
 
