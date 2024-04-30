@@ -1,4 +1,7 @@
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge" title="Curseforge" alt="Curseforge"/>&nbsp;
+</div>
 <h1 align="center">Hey there!</h1>
 
 ### About Me!
@@ -26,8 +29,13 @@ My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
   </a>
 </div>
 
+### Where to find me!
 
-<h3>Tech!</h3>
+Discord: `iamaprogramer`
+Curseforge: []()
+Modrinth: 
+
+### Tech!
 
 ---
 
