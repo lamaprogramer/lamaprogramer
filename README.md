@@ -10,7 +10,10 @@ I am a software developer and Minecraft modder!
 - 📫 How to reach me: "iamaprogramer" on discord
 - ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
 
+
 <h3>Tech!</h3>
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -23,6 +26,8 @@ I am a software developer and Minecraft modder!
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
 </div>
+
+---
 <!--
 **lamaprogramer/lamaprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
