@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge" title="Curseforge" alt="Curseforge">;
-  <img src="https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth" title="Modrinth" alt="Modrinth">;
-  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen" title="Codepen" alt="Codepen"/>;
+  <img src="https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge" title="Curseforge" alt="Curseforge">
+  <img src="https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth" title="Modrinth" alt="Modrinth">
+  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen" title="Codepen" alt="Codepen"/>
 </div>
 <h1 align="center">Hey there!</h1>
 
@@ -24,10 +24,10 @@ My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
 
 <div>
   <a href="https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames">
-    <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&logo=curseforge&label=Toggle%20Item%20Frames&labelColor=black&color=orange" title="Toggle Item Frames" alt="Toggle Item Frames">;
+    <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&logo=curseforge&label=Toggle%20Item%20Frames&labelColor=black&color=orange" title="Toggle Item Frames" alt="Toggle Item Frames">
   </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/reimagined-world-menu">
-    <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&logo=curseforge&label=Reimagined%20World%20Menu&labelColor=black&color=orange" title="Reimagined World Menu" alt="Reimagined World Menu">;
+    <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&logo=curseforge&label=Reimagined%20World%20Menu&labelColor=black&color=orange" title="Reimagined World Menu" alt="Reimagined World Menu">
   </a>
 </div>
 
