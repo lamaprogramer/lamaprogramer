@@ -16,8 +16,12 @@ You can find my mods on Modrinth and Curseforge.
 My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
 
 <div align="center">
-  <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&color=orange" title="Java" alt="Java"/>&nbsp;
-  <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&color=orange" title="Python" alt="Python"/>&nbsp;
+  <a href="https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames">
+    <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&color=orange" title="Toggle Item Frames" alt="Toggle Item Frames"/>&nbsp;
+  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/reimagined-world-menu">
+    <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&color=orange" title="Reimagined World Menu" alt="Reimagined World Menu"/>&nbsp;
+  </a>
 </div>
 
 
