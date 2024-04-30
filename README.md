@@ -7,7 +7,7 @@
 I am a software developer and Minecraft modder!
 
 - 😄 Pronouns: he/him
-- 📫 How to reach me: "iamaprogramer" on discord
+- 📫 How to reach me: `iamaprogramer` on discord
 - ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
 
 
