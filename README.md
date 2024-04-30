@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  ### Hi there 👋
+</div>
 
 - I am a software developer and Minecraft modder
 - I enjoy gaming and watching anime in my free time.
