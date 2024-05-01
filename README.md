@@ -32,12 +32,6 @@ My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
     <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&logo=curseforge&label=Reimagined%20World%20Menu&labelColor=black&color=orange" title="Reimagined World Menu" alt="Reimagined World Menu"></a>
 </div>
 
-### Where to find me!
-
-Discord: `iamaprogramer`
-Curseforge: []()
-Modrinth: 
-
 ### Tech!
 
 ---
