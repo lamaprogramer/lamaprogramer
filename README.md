@@ -19,17 +19,15 @@ I am a software developer and Minecraft modder!
 
 ### Minecraft Modding!
 
-I make mods using the Fabric Mod Loader.
+I exclusively make mods using the Fabric Mod Loader. Here are my favorites: 
 
-You can find my mods on Modrinth and Curseforge.
-
-My two most popular mods are `Toggle Item Frames` and `Reimagined World Menu`.
-
-<div>
+<div align="center">
   <a href="https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames">
     <img src="https://img.shields.io/curseforge/dt/810660?style=for-the-badge&logo=curseforge&label=Toggle%20Item%20Frames&labelColor=black&color=orange" title="Toggle Item Frames" alt="Toggle Item Frames"></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/reimagined-world-menu">
     <img src="https://img.shields.io/curseforge/dt/856261?style=for-the-badge&logo=curseforge&label=Reimagined%20World%20Menu&labelColor=black&color=orange" title="Reimagined World Menu" alt="Reimagined World Menu"></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/imagetoworld">
+    <img src="https://img.shields.io/curseforge/dt/962074?style=for-the-badge&logo=curseforge&label=Image%20To%20World&labelColor=black&color=orange" title="Image To World" alt="Image To World"></a>
 </div>
 
 ### Tech!
