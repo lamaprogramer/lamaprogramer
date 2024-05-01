@@ -1,8 +1,11 @@
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge" title="Curseforge" alt="Curseforge">
-  <img src="https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth" title="Modrinth" alt="Modrinth">
-  <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen" title="Codepen" alt="Codepen">
+  <a href="https://www.curseforge.com/members/iamaprogramer/projects">
+    <img src="https://img.shields.io/badge/Curseforge-black?style=for-the-badge&logo=curseforge" title="Curseforge" alt="Curseforge"></a>
+  <a href="https://modrinth.com/user/lamaprogramer">
+    <img src="https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth" title="Modrinth" alt="Modrinth"></a>
+  <a href="https://codepen.io/lamaprogramer">
+    <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen" title="Codepen" alt="Codepen"></a>
 </div>
 <h1 align="center">Hey there!</h1>
 
