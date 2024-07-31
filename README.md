@@ -11,7 +11,7 @@
 
 ### About Me!
 
-I am a software developer and Minecraft modder!
+I am an aspiring software developer and Minecraft modder!
 
 - 😄 Pronouns: he/him
 - 📫 How to reach me: `iamaprogramer` on discord (please state your reasoning in your first message)
