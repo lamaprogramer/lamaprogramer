@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth" title="Modrinth" alt="Modrinth"></a>
   <a href="https://codepen.io/lamaprogramer">
     <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen" title="Codepen" alt="Codepen"></a>
+  <a href="https://replit.com/@hellohoomans">
+    <img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=replit" title="Replit" alt="Replit"></a>
 </div>
 <h1 align="center">Hey there!</h1>
 
