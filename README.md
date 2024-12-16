@@ -13,15 +13,15 @@
 
 ### About Me!
 
-I am an aspiring software developer and Minecraft modder!
+I am an aspiring software developer and Minecraft mod developer.
 
 - 😄 Pronouns: he/him
-- 📫 How to reach me: `iamaprogramer` on discord (please state your reasoning in your first message)
+- 📫 Contact Me: willkinsey47@gmail.com
 - ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
 
 ### Minecraft Modding!
 
-I exclusively make mods using the Fabric Mod Loader. Here are my favorites: 
+I exclusively make mods using the Fabric Mod Loader. These are my most popular: 
 
 <div align="center">
   <a href="https://www.curseforge.com/minecraft/mc-mods/toggle-item-frames">
