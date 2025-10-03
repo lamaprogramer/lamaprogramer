@@ -15,9 +15,7 @@
 
 I am an aspiring software developer and Minecraft mod developer.
 
-- 😄 Pronouns: he/him
-- 📫 Contact Me: willkinsey47@gmail.com
-- ⚡ My favorite games are Minecraft, Undertale, and Deltarune!
+- 📫 Contact Me: wkinsey1@charlotte.edu
 
 ### Minecraft Modding!
 
